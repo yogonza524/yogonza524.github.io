@@ -78,4 +78,5 @@ If everything is ok you must to see an output like this
 
 ### Conclusion
 As you can see this implementation is very easy, please checkout this example at LinkedIn
+
 <a href="https://dms.licdn.com/playlist/C4E05AQE3_5uVcI1neA/feedshare-captions-thumbnails-dualWrite-inhouse-mp4_h264_aac_3300k/0?e=1566777600&v=beta&t=zB1DVfXG_pSuPmGhznPNAqg9aswFdgK4X3O9PIcE0ho" rel="Karate at LinkedIn">![Video](/images/karate_video.png)
