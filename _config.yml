@@ -18,17 +18,17 @@ avatar: http://gravatar.com/avatar/44a496a63f1ee7cd36f203e05ec0209b
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: yogonza524@gmail.com
   facebook:
   flickr:
   github: yogonza524
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/gonzalo-mendoza-825538b6/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: gonzalohumen
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  twitter: gonzahumen
+  stackoverflow: users/5340909/gonzalo-mendoza
+  youtube: channel/UCmTo3RyFzlcox7lx0CVl3ww
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
